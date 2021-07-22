@@ -44,3 +44,28 @@ main{
 hr{
     border: 1px solid #D1D1D1;
 }
+/* ------------------
+    Top Blogs Style 
+----------------------*/
+.blog .thumbnail img{
+    width: 177px;
+    height: 117px;
+}
+.blog{
+    display: flex;
+}
+.blog-info{
+    margin-left: 16px;
+}
+.blog-title{
+    font-size: 20px;
+}
+.blog-author{
+    color: #9F9F9F;
+    font-size: 16px;
+}
+.blog-author a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #562EFF;
+}
